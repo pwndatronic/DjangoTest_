@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228f0b55-12da-4eca-8c91-3672d2ca6d2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Django/Project/fpages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/Project/templates/flatpages/about_pageOld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/Project/templates/flatpages/inc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Django/Project/Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Project/Project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Django/Project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Django/Project/templates/flatpages/khorne_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Project/templates/flatpages/khorne_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/Project/templates/flatpages/about_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Project/templates/flatpages/about_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/Project/templates/flatpages/contact_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Project/templates/flatpages/contact_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/Project/templates/flatpages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Project/templates/flatpages/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
